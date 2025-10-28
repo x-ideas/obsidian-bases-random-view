@@ -15,6 +15,11 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
+      - name: Print Info
+        run: |
+          echo "RELEASE_PLEASE_TOKEN: ${{ secrets.RELEASE_PLEASE_TOKEN }}"
+          echo "RELEASE_PLEASE_TOKEN is empty: ${{ secrets.RELEASE_PLEASE_TOKEN == '' }}"
+
       - uses: googleapis/release-please-action@v4
         id: release
         with:
