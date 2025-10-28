@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "bases-random-view",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "A random view for Bases. This plugin allows you to view a random file from your vault.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "vite build --watch",
