@@ -1,7 +1,7 @@
 {
 	"id": "bases-random-view",
 	"name": "Bases Random View",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"minAppVersion": "1.9.0",
 	"description": "A random view for Bases. This plugin allows you to view a random file from your vault.",
 	"author": "xjiaxiang86@gmail.com",
