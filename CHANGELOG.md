@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/x-ideas/obsidian-bases-random-view/compare/1.0.0...1.1.0) (2025-10-29)
+
+
+### Features
+
+* update render style and deal the click event for a element ([0b1437b](https://github.com/x-ideas/obsidian-bases-random-view/commit/0b1437b1c2948978d280159c3e2c3b127cacb32d))
+
 ## 1.0.0 (2025-10-28)
 
 
