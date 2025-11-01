@@ -1,6 +1,8 @@
 # Bases Random View
 
-A random view for Bases. This plugin allows you to view a random file in your bases.
+A random view for Bases. This plugin allows you to view and select a random file in your bases.
+
+![Random View](./docs/preview.jpg)
 
 ## Installation (Manual)
 
