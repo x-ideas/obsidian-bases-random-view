@@ -8,8 +8,8 @@
 }
 
 .random-button-container {
-	display: flex;
-	justify-content: center;
+	/* display: flex;
+	justify-content: center; */
 	padding: 1rem;
 }
 

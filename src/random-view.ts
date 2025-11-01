@@ -163,7 +163,6 @@ export class RandomView extends BasesView {
 	 */
 	private renderFrontmatter(titleDiv: HTMLElement, file: TFile): void {
 		const fileCache = this.app.metadataCache.getFileCache(file);
-		console.log('frontmatter', fileCache?.frontmatter);
 		if (!fileCache || !fileCache.frontmatter) {
 			return;
 		}
